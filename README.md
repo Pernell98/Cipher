@@ -1,3 +1,3 @@
 # Cipher
 Cipher Program that helped me to better understand encryption.
-![](CipherGif.gif)
+<img src="Cipher Gif.gif" width="40" height="40" />
