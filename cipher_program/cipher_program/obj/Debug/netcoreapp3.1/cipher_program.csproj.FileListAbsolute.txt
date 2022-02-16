@@ -1,0 +1,16 @@
+C:\Users\Ageth\source\repos\cipher_program\cipher_program\bin\Debug\netcoreapp3.1\cipher_program.exe
+C:\Users\Ageth\source\repos\cipher_program\cipher_program\bin\Debug\netcoreapp3.1\cipher_program.deps.json
+C:\Users\Ageth\source\repos\cipher_program\cipher_program\bin\Debug\netcoreapp3.1\cipher_program.runtimeconfig.json
+C:\Users\Ageth\source\repos\cipher_program\cipher_program\bin\Debug\netcoreapp3.1\cipher_program.runtimeconfig.dev.json
+C:\Users\Ageth\source\repos\cipher_program\cipher_program\bin\Debug\netcoreapp3.1\cipher_program.dll
+C:\Users\Ageth\source\repos\cipher_program\cipher_program\bin\Debug\netcoreapp3.1\cipher_program.pdb
+C:\Users\Ageth\source\repos\cipher_program\cipher_program\obj\Debug\netcoreapp3.1\cipher_program.csproj.AssemblyReference.cache
+C:\Users\Ageth\source\repos\cipher_program\cipher_program\obj\Debug\netcoreapp3.1\cipher_program.frmEncryptandDecrypt.resources
+C:\Users\Ageth\source\repos\cipher_program\cipher_program\obj\Debug\netcoreapp3.1\cipher_program.csproj.GenerateResource.cache
+C:\Users\Ageth\source\repos\cipher_program\cipher_program\obj\Debug\netcoreapp3.1\cipher_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ageth\source\repos\cipher_program\cipher_program\obj\Debug\netcoreapp3.1\cipher_program.AssemblyInfoInputs.cache
+C:\Users\Ageth\source\repos\cipher_program\cipher_program\obj\Debug\netcoreapp3.1\cipher_program.AssemblyInfo.cs
+C:\Users\Ageth\source\repos\cipher_program\cipher_program\obj\Debug\netcoreapp3.1\cipher_program.csproj.CoreCompileInputs.cache
+C:\Users\Ageth\source\repos\cipher_program\cipher_program\obj\Debug\netcoreapp3.1\cipher_program.dll
+C:\Users\Ageth\source\repos\cipher_program\cipher_program\obj\Debug\netcoreapp3.1\cipher_program.pdb
+C:\Users\Ageth\source\repos\cipher_program\cipher_program\obj\Debug\netcoreapp3.1\cipher_program.genruntimeconfig.cache
